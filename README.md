@@ -4,8 +4,8 @@
 
 🛠 Tech Stack
 🔹 Languages: Java, SQL, JavaScript
-🔹 Frameworks: Spring Boot, JavaFX, Swing
-🔹 Databases: MySQL
+🔹 Frameworks: Spring Boot, Swing
+🔹 Databases: MySQL, MongoDB
 🔹 Tools: Git, GitHub, IntelliJ IDEA, VS Code
 
 📌 Featured Projects
@@ -17,8 +17,6 @@
 
 📊 GitHub Stats
 
-
 📬 Connect With Me
-
 
 💡 "Code. Learn. Build. Repeat!"
