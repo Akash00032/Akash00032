@@ -91,9 +91,8 @@
 ---
 
 ## 🏆 Achievements
-- 🥇 Solved 300+ problems on LeetCode.
+- 🥇 Solved problems on LeetCode.
 - 🚀 Completed 5+ backend projects.
-- 🎖️ Ranked Top 10% in Hackathon XYZ.
 
 ---
 
