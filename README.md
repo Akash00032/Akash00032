@@ -1,162 +1,125 @@
-<!-- 🚀 Enhanced Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Akash+Kumar+🚀;Java+Developer+%7C+Backend+Enthusiast;Spring+Boot+Explorer+%7C+React+Learner;Building+Scalable+Solutions+%26+Growing+Daily!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=70&lines=Hey%2C+I'm+Akash+Kumar+👋;Java+%26+Spring+Boot+Developer;Backend+Engineer+in+the+Making;Building+Scalable+%26+Clean+Systems" alt="Typing SVG" />
 </p>
 
-# 🌌 Welcome to My GitHub Universe 🌠
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&height=60&lines=Building+cool+stuff...;Always+learning+%26+improving!" alt="Typing SVG" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/akkumar1998/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://github.com/akash00032"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-<!-- 🚀 Tech Stack -->
+## 👨‍💻 About Me
 
-<h2 align="center">🚀 Tech Stack</h2>
+I'm a **Java & Spring Boot developer** from India, focused on building clean, scalable backend systems. I enjoy turning complex problems into simple, efficient solutions — whether that's designing REST APIs, structuring databases, or shipping full-stack features.
 
-### 🛠️ Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### 🧩 Frameworks & Libraries
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Swing-0081CB?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JDBC-E76F00?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lombok-E9573F?style=for-the-badge&logo=lombok&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### 🌐 Servers
-<p align="center">
-  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</p>
-
-### ☁️ Cloud & Deployment
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-</p>
-
-### ⚒️ Tools & Utilities
-<p align="center">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-</p>
-
-### 🔄 Version Control
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-### 🧪 Testing
-<p align="center">
-  <img src="https://img.shields.io/badge/JUnit 4-25A162?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JUnit 5-6DB33F?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
-
-### 💻 IDEs
-<p align="center">
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-</p>
-
-
-
-
+- 🔭 Currently building backend projects with **Spring Boot & REST APIs**
+- 🌱 Deepening my knowledge in **System Design & Microservices**
+- 🎯 Goal: Land a backend engineering role and contribute to impactful open-source projects
+- ⚡ I solve LeetCode problems daily to sharpen my DSA fundamentals
+- ☕ Java isn't just a language — it's a lifestyle
 
 ---
 
-## 🚀 Currently Learning
-- 🌱 Spring Boot
-- 🌱 RESTful APIs
-- 🌱 System Design Patterns
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **Languages** | Java · Python · JavaScript · SQL · HTML5 · CSS3 |
+| **Frameworks** | Spring Boot · React · Hibernate · Bootstrap · Swing |
+| **Databases** | MySQL · MongoDB |
+| **Tools** | Maven · Postman · Git · GitHub · Lombok · JDBC |
+| **Cloud & Servers** | AWS · Apache Tomcat · Node.js |
+| **Testing** | JUnit 4 · JUnit 5 |
+| **IDEs** | IntelliJ IDEA · VS Code |
 
 ---
 
-## 🏆 Achievements
-- 🥇 Solved problems on LeetCode.
-- 🚀 Completed 5+ backend projects.
+## 🚀 Featured Projects
+
+### 🗂️ [Employee Payroll System](https://github.com/akash00032/employee-payroll)
+> A desktop application to manage employee records and automate payroll calculations.
+
+**Tech:** Java · Swing · JDBC · MySQL  
+**Highlights:** CRUD operations, salary computation logic, clean Swing UI, MySQL persistence
 
 ---
 
-## 🎯 Goals for 2025
-- ✅ Master Spring Boot
-- ✅ Build REST APIs
-- ✅ Learn System Design Basics
-- ✅ Contribute to Open Source
-- ✅ Build a Full-Stack Project
+### 🌦️ [Weather App](https://github.com/akash00032/weather-app)
+> A real-time weather dashboard that fetches live data from a public weather API.
+
+**Tech:** HTML · CSS · JavaScript  
+**Highlights:** OpenWeather API integration, dynamic DOM updates, responsive layout
 
 ---
 
-## 📌 Featured Projects
-- 🎯 [Employee Payroll System](https://github.com/akash00032/employee-payroll) — Java Swing + JDBC + MySQL
-- 🌐 [Weather App](https://github.com/akash00032/weather-app) — HTML, CSS, JS
-- 🧠 [Quiz Game](https://github.com/akash00032/quiz-game) — Java + Swing
+### 🧠 [Quiz Game](https://github.com/akash00032/quiz-game)
+> An interactive desktop quiz game with score tracking and timed questions.
 
-👉 *Check out more in my [GitHub Repositories](https://github.com/akash00032?tab=repositories)*
+**Tech:** Java · Swing  
+**Highlights:** OOP design, timer logic, score tracking, modular question bank
+
+---
+
+## 📈 Competitive Programming
+
+| Platform | Profile | Stats |
+|---|---|---|
+| LeetCode | [akkumar1998](https://leetcode.com/akkumar1998/) | 150+ problems solved |
+
+> *Focused on Arrays, Strings, Trees, and Dynamic Programming*
 
 ---
 
 ## 🎓 Certifications
-- 🏅 Java Programming Masterclass (Udemy)
-- 🏅 Backend Development Bootcamp (Coursera)
-- 🏅 SQL for Developers (Hackerrank)
+
+| Certificate | Platform | Year |
+|---|---|---|
+| Java Programming Masterclass | Udemy | 2024 |
+| Backend Development Bootcamp | Coursera | 2024 |
+| SQL for Developers | HackerRank | 2024 |
 
 ---
 
-## 💡 Competitive Programming
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/akkumar1998/)
+## 🗺️ What I'm Working On
+
+```
+[✅] Spring Boot REST API fundamentals
+[✅] MySQL schema design & JPA/Hibernate
+[🔄] System Design basics (currently reading)
+[🔄] Building a Full-Stack Project (Spring Boot + React)
+[📌] Microservices architecture (up next)
+[📌] Open Source contribution (up next)
+```
 
 ---
-
-## 🤝 Open for Collaboration
-I'm always open to collaborate on:
-- 💻 Java & Backend Projects
-- 🚀 Open Source Contributions
-- 🎓 Hackathons and Coding Competitions
-
----
-
-## 💡 Fun Facts
-- 🧠 I solve coding problems daily.
-- ☕ Java runs through my veins.
-- 🎮 Gaming fuels my creativity.
-- 🛠️ Constantly building and breaking stuff.
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" /><br>
-  💡 <i>"Code. Learn. Build. Repeat!"</i>
-</p>
-
----
-
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash00032&show_icons=true&theme=github_dark&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akash00032&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash00032&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top Languages" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash00032&show_icons=true&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash00032&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm actively looking to collaborate on:
+- Backend systems and REST API projects
+- Java open-source contributions
+- Hackathons and coding challenges
+
+**DM me on [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) or drop an [email](mailto:YOUR_EMAIL) — I respond within 24 hours.**
+
+---
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash00032&theme=github-dark-blue" alt="GitHub Streak" />
+  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
 </p>
