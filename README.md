@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  Passionate about building scalable backend systems, REST APIs, NLP-powered applications, and modern full-stack solutions.
+Passionate about building scalable backend systems, REST APIs, NLP-powered applications, and modern full-stack solutions.
 </p>
 
 ---
@@ -38,23 +38,24 @@
 Name: Akash Kumar
 Role: Java Backend & Full-Stack Developer
 Location: India
+
 Focus Areas:
-  - Spring Boot REST APIs
-  - Backend Development
+  - Java & Spring Boot Development
+  - REST API Design
+  - Backend Engineering
+  - NLP & Conversational AI
   - Microservices Architecture
-  - NLP & AI-based Applications
   - Database Design & Optimization
-  - Scalable System Development
 
 Currently Learning:
   - System Design
-  - Kafka & Event-Driven Architecture
+  - Kafka & Event-Driven Systems
   - Docker & Cloud Deployment
   - Advanced Spring Security
 
 Career Goal:
-  To become a highly skilled backend engineer and contribute
-  to impactful real-world software systems.
+  To build scalable software systems and contribute
+  to impactful backend engineering projects.
 ```
 
 ---
@@ -62,21 +63,25 @@ Career Goal:
 # 🛠️ Tech Stack & Tools
 
 ## 👨‍💻 Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql" />
 </p>
 
 ## ⚙️ Frameworks & Libraries
+
 <p>
   <img src="https://skillicons.dev/icons?i=spring,react,nodejs,bootstrap" />
 </p>
 
 ## 🗄️ Databases
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-## 🧰 Tools & Platforms
+## ☁️ DevOps & Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,maven,vscode,idea" />
 </p>
@@ -87,7 +92,7 @@ Career Goal:
 
 ## 🤖 NLP-Based Chatbot System
 
-> An intelligent NLP-powered chatbot designed to enhance human-computer interaction using Spring Boot and Natural Language Processing techniques.
+> An intelligent NLP-powered chatbot designed to enhance human-computer interaction using Natural Language Processing and Spring Boot.
 
 ### 🔧 Tech Stack
 `Java` `Spring Boot` `REST API` `MySQL` `HTML` `CSS` `JavaScript` `NLP`
@@ -100,7 +105,7 @@ Career Goal:
 - Context-aware interaction handling
 
 ### 🔗 Links
-- GitHub Repo: `Add Your Repository Link`
+- GitHub Repo: `Add Repository Link`
 - Live Demo: `Add Deployment Link`
 
 ---
@@ -113,24 +118,24 @@ Career Goal:
 `Java` `Spring Boot` `Apache Kafka` `MySQL` `Docker`
 
 ### ✨ Key Features
-- Event-driven communication
 - Kafka Producer & Consumer
-- Asynchronous processing
-- Notification persistence
+- Asynchronous notification handling
+- Event-driven communication
 - Microservices architecture
+- Database persistence
 
 ### 🔗 Links
-- GitHub Repo: `Add Your Repository Link`
+- GitHub Repo: `Add Repository Link`
 - Live Demo: `Add Deployment Link`
 
 ---
 
 ## 🛒 Microservices E-Commerce Backend
 
-> Scalable backend architecture for an e-commerce platform using Spring Boot microservices.
+> Scalable backend architecture for e-commerce systems using Spring Boot microservices and REST APIs.
 
 ### 🔧 Tech Stack
-`Java` `Spring Boot` `Microservices` `JWT` `MySQL` `REST API`
+`Java` `Spring Boot` `JWT` `Microservices` `MySQL`
 
 ### ✨ Key Features
 - Authentication & Authorization
@@ -140,66 +145,155 @@ Career Goal:
 - Database integration
 
 ### 🔗 Links
-- GitHub Repo: `Add Your Repository Link`
+- GitHub Repo: `Add Repository Link`
 - Live Demo: `Add Deployment Link`
 
 ---
 
-# 📚 Current Learning Journey
+# 🏗️ Engineering Interests
+
+- Scalable Backend Systems
+- REST API Development
+- Distributed Systems
+- Microservices Architecture
+- NLP & Conversational AI
+- Event-Driven Systems
+- System Design & Optimization
+
+---
+
+# 📈 Competitive Programming
+
+| Platform | Profile | Stats |
+|---|---|---|
+| LeetCode | [akkumar1998](https://leetcode.com/akkumar1998/) | 150+ problems solved |
+
+> *Focused on Arrays, Strings, Trees, Dynamic Programming, and Problem Solving.*
+
+---
+
+# 🎓 Certifications
+
+| Certificate | Platform | Year |
+|---|---|---|
+| Java Programming Masterclass | Udemy | 2024 |
+| Backend Development Bootcamp | Coursera | 2024 |
+| SQL for Developers | HackerRank | 2024 |
+
+---
+
+# 🗺️ What I'm Currently Working On
 
 ```text
-✅ Java & OOP Concepts
-✅ Spring Boot REST APIs
-✅ MySQL & Hibernate
-✅ Frontend Integration
-✅ NLP-Based Chatbot Development
-🔄 Kafka & Event-Driven Systems
-🔄 System Design Fundamentals
-🔄 Docker & Cloud Deployment
-📌 Advanced Microservices Architecture
-📌 Open Source Contributions
+[✅] Spring Boot REST API fundamentals
+[✅] MySQL schema design & JPA/Hibernate
+[✅] NLP-Based Chatbot Development
+[🔄] System Design fundamentals
+[🔄] Full-Stack Development (Spring Boot + React)
+[🔄] Kafka Event-Driven Architecture
+[📌] Docker & Cloud Deployment
+[📌] Microservices Architecture
+[📌] Open Source Contributions
 ```
 
 ---
 
-# 🧠 Areas of Interest
+# 🚀 Current Focus
 
-- Backend Development
-- REST API Design
-- NLP & Conversational AI
-- Microservices Architecture
-- Scalable System Design
-- Database Optimization
-- Full-Stack Development
-- Open Source Collaboration
+- Building production-ready backend applications
+- Improving REST API architecture skills
+- Learning scalable microservices systems
+- Exploring AI-integrated backend applications
+- Practicing DSA & problem-solving consistently
 
 ---
 
-# 📈 GitHub Analytics
+# 🏆 Achievements
+
+- Solved 150+ problems on LeetCode
+- Built multiple backend & full-stack projects
+- Developed NLP-based chatbot system
+- Exploring event-driven microservices architecture
+- Continuously improving Java & Spring Boot expertise
+
+---
+
+# 🌐 Portfolio Website
+
+🔗 Portfolio: `Add Your Portfolio Link`
+
+---
+
+# 📄 Resume
+
+📥 Download Resume: `Add Resume Link`
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash00032&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash00032&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akash00032&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash00032&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash00032&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash00032&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-# 🏆 Developer Highlights
+# 📈 Contribution Activity
 
-- 💡 Building scalable backend applications using Java & Spring Boot
-- 🤖 Exploring AI & NLP-powered software systems
-- ⚡ Strong interest in Microservices & Distributed Systems
-- 🧩 Practicing Data Structures & Algorithms regularly
-- 🚀 Passionate about real-world problem solving through software engineering
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash00032&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 
-# 🌐 Connect With Me
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akash00032&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm actively looking to collaborate on:
+
+- Backend systems and REST API projects
+- Java & Spring Boot applications
+- NLP and AI-based systems
+- Microservices architecture projects
+- Open-source contributions
+- Hackathons and coding communities
+
+---
+
+# 🌍 Open Source Interests
+
+Interested in contributing to:
+
+- Java backend projects
+- Spring Boot ecosystems
+- AI & NLP applications
+- Developer productivity tools
+- Open-source learning communities
+
+---
+
+# 📬 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
@@ -207,7 +301,7 @@ Career Goal:
   </a>
 
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 
   <a href="https://github.com/akash00032">
@@ -217,13 +311,7 @@ Career Goal:
 
 ---
 
-# 📌 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akash00032&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
----
+# 💡 Developer Quote
 
 <p align="center">
   <i>"First, solve the problem. Then, write the code."</i>
