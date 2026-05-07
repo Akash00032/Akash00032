@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&height=70&lines=Hi+There%2C+I'm+Akash+Kumar+👋;Java+%26+Spring+Boot+Developer;Backend+%26+Full-Stack+Engineer;Building+Scalable+REST+APIs+%26+Microservices;AI+%2F+NLP+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Akash+Kumar;Java+%7C+Spring+Boot+Developer;Backend+%26+Full-Stack+Engineer;Building+Scalable+REST+APIs;AI+%2F" alt="Typing SVG" />
 </p>
 
 <h3 align="center">
-🚀 Java Backend Developer | Spring Boot Developer | Full-Stack Developer | AI/NLP Enthusiast
+🚀 Java Backend Developer | Spring Boot Developer | Full-Stack Developer
 </h3>
 
 <p align="center">
@@ -193,7 +193,6 @@ Career Goal:
 [🔄] Kafka Event-Driven Architecture
 [📌] Docker & Cloud Deployment
 [📌] Microservices Architecture
-[📌] Open Source Contributions
 ```
 
 ---
@@ -220,7 +219,7 @@ Career Goal:
 
 # 🌐 Portfolio Website
 
-🔗 Portfolio: `Add Your Portfolio Link`
+🔗 Portfolio: `https://akash-portfolio-website.vercel.app/`
 
 ---
 
@@ -296,11 +295,11 @@ Interested in contributing to:
 # 📬 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/aakash-kumar-479a781b7">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="aakashkumar572@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 
